@@ -15,8 +15,7 @@ function sayHiToGrandma(string){
    
    var lowercase = (string)
    lowercase.toLowerCase(string) === lowercase // true
-   if ((string) === lowercase)
-   expect(shout('hello')).toEqual('HELLO'){
+   if ((string) === lowercase){
     return "I can\'t hear you!"}
    
    if ((string) === "I love you, Grandma.") {
