@@ -12,7 +12,7 @@ function sayHiToGrandma(string){
    return 'YES INDEED!'
    }
    
-   if ((string) === lowercase)
+   if ((string) =/ uppercase)
    {
     return 'I can\'t hear you!'
      
