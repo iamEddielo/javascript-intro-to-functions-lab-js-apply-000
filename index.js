@@ -15,12 +15,16 @@ function sayHiToGrandma(string){
    
    var lowercase = (string)
    lowercase.toLowerCase() === lowercase // true
-   if ((string) === lowercase){
-    return "I can\'t hear you!"}
+   if ((string) === lowercase)
+   {
+    return 'I can\'t hear you!'
+     
+   }
    
    if ((string) === "I love you, Grandma.") {
     return "I love you, too."
     }
-}
+
     mixedCase.toLowerCase() === mixedCase // false
     mixedCase.toUpperCase() === mixedCase // false
+}
