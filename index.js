@@ -7,9 +7,11 @@ function logWhisper(string) {console.log('hello')}
 function sayHiToGrandma(string){
   var uppercase = (string)
   uppercase.toUpperCase(string) === uppercase // true
-  if ((string) === uppercase){
+  if ((string) === uppercase)
+  expect(shout('hello')).toEqual('HELLO'){
    return 'YES INDEED!'
    }
+   
    var lowercase = (string)
    lowercase.toLowerCase(string) === lowercase // true
    if ((string) === lowercase){
