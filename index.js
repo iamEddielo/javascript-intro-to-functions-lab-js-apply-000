@@ -22,5 +22,5 @@ function sayHiToGrandma(string){
     return "I love you, too."
     }
 }
-    
-   
+mixedCase.toLowerCase() === mixedCase // false
+MixedCase.toUpperCase() === mixedCase // false
