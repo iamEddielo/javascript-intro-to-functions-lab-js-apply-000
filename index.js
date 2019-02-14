@@ -9,7 +9,7 @@ function sayHiToGrandma(string){
   var uppercase = (string)
   uppercase.toUpperCase(string) === uppercase // true
   if ((string) === uppercase)
-  expect(shout('hello')).toEqual('HELLO'){
+  {
    return 'YES INDEED!'
    }
    
